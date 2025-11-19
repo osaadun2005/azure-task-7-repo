@@ -5,7 +5,7 @@ To Design, Deploy, And Secure A Highly Available Virtual Machine (VM)
 
 1. **Task Overview**
    
-- Configure A Virtual Network (VNet)
+- Configure A Virtual Network (VNet) And Deploy Virtual Machines (VM)
 
 - Owner: Intern/ Osa Adun
 
@@ -29,6 +29,8 @@ To Design, Deploy, And Secure A Highly Available Virtual Machine (VM)
 - Step 1: Login to Azure
 
 <img width="1280" height="637" alt="image" src="https://github.com/user-attachments/assets/02420a9a-0ae0-41e4-acb8-0f4638179b9a" />
+
+- Step 2: Create Resource Group
 
 
 
