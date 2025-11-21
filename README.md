@@ -249,6 +249,7 @@ To Design, Deploy, And Secure A Highly Available Virtual Machine (VM)
 
 
   4.**Conclusion**
+  
      - Vitual Network Created and Configured
      - Frontend, Backend, And Database Subnets Created And Assigned
      - Virtual Machine Scale Sets Created And Configured
@@ -258,7 +259,8 @@ To Design, Deploy, And Secure A Highly Available Virtual Machine (VM)
 
 
 
- 5. **Resources**
+  5. **Resources**
+     
      - Instructor: Gabriel Mekuleyi
      - Azure Portal
      - Microsoft Learn
