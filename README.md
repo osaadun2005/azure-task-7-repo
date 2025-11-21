@@ -143,9 +143,9 @@ To Design, Deploy, And Secure A Highly Available Virtual Machine (VM)
 
      <img width="1008" height="500" alt="image" src="https://github.com/user-attachments/assets/0a9ea6ee-a45b-494c-81f5-263966097bc6" />
 
-      <img width="1008" height="477" alt="image" src="https://github.com/user-attachments/assets/56e18e89-06c1-427e-b5dc-f8c844b8e277" />
+     <img width="1008" height="477" alt="image" src="https://github.com/user-attachments/assets/56e18e89-06c1-427e-b5dc-f8c844b8e277" />
 
-      <img width="1008" height="518" alt="image" src="https://github.com/user-attachments/assets/57394168-d0f2-4288-a8f9-6013141d0ef6" />
+     <img width="1008" height="518" alt="image" src="https://github.com/user-attachments/assets/57394168-d0f2-4288-a8f9-6013141d0ef6" />
 
 
 
@@ -245,6 +245,27 @@ To Design, Deploy, And Secure A Highly Available Virtual Machine (VM)
 
 
          <img width="887" height="397" alt="image" src="https://github.com/user-attachments/assets/730a5957-b021-46b8-a4a7-3dc0bb5bef97" />
+
+
+
+  4.**Conclusion**
+     - Vitual Network Created and Configured
+     - Frontend, Backend, And Database Subnets Created And Assigned
+     - Virtual Machine Scale Sets Created And Configured
+     - Virtual Machine Scale Set Connected to The Virtual Network
+     - Application Load Balancer Created And Configured
+     - Management And Health Monitoring Configured    
+
+
+
+ 5. **Resources**
+     - Instructor: Gabriel Mekuleyi
+     - Azure Portal
+     - Microsoft Learn
+     - GitHub Repository
+
+
+
 
 
 
